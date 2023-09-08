@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: monospace;
+    font-size: 21px;
+}
+
+.avatar {
+    width: 150px;
+    border: solid 5px #E0E1DD;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #1B263B;
+    color: #E0E1DD;
+    border-bottom: 10px solid #778DA9;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
